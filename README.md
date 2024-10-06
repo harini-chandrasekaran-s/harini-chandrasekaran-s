@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
